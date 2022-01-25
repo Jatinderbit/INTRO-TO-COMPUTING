@@ -1,2 +1,2 @@
 # INTRO-TO-COMPUTING
-# N ew assignment:ASSIGNMENET 2
+# New assignment:ASSIGNMENET 2
